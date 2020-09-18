@@ -11,4 +11,4 @@ I need to enhance the resolution, and reduce the error to make the forecast more
 The output is evaluated by CRPS score, it shows that my model is better than traditional methods.
 Some input, output and label images are shown here, we can see that error of output image is much less than input
 
-Some (mainly data preprocessing and evaluation) are adapted from Weifan Jiang, https://github.com/JiangWeiFanAI/iu60_csiro
+Some (mainly data preprocessing tool and evaluation) are adapted from Weifan Jiang, https://github.com/JiangWeiFanAI/iu60_csiro
