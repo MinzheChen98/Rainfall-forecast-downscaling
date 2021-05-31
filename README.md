@@ -1,6 +1,4 @@
 # Rainfall-forecast-downscaling
-I am working on this project now
-
 Input is low resolution (LR) climate images, including precipitation, temperature and so on.
 Model I am using now is VDSR
 Output is super resolution (SR) rainfall image
